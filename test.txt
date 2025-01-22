@@ -1,0 +1,8 @@
+1- creer un utilisa	teur
+2- ajouter 2 Experiences pour chaque type
+3- ajouter 2 Formation
+4- ajouter 2 Certifications
+5- ajouter 2 Competences pour chaque type
+6- ajouter 2 Details pour chaque type
+7- ajouter 2 Realisation
+8- ajouter 2 DetailRealisation
